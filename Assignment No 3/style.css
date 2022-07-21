@@ -1,0 +1,170 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-fluid {
+    margin: 20px;
+}
+
+.dropdown-menu {
+    color: aqua;
+
+}
+
+ul li {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.navbar-brand {
+    font-size: larger;
+    font-weight: 500;
+    letter-spacing: 5px;
+    color: aqua;
+}
+
+#p1 {
+    text-align: center;
+    line-height: 100%;
+    text-transform: capitalize;
+    font-size: 54px;
+    font-weight: 700;
+    font-family: 'New York Extra Large';
+}
+
+
+#p2 {
+    text-align: center;
+    word-spacing: 10px;
+}
+
+#img1 {
+    width: 100%;
+}
+
+.customLine{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid black;
+}
+
+.customLine2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid lightgrey;
+}
+
+.customLine3{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-bottom: 2px solid black;
+}
+#sec3 {
+    display: flex;
+    gap: 20px;
+    text-align: center;
+}
+
+#sec4 {
+    margin: 20px 30px 30px 0;
+    letter-spacing: 40px;
+
+}
+
+#img2 {
+    justify-content: center;
+}
+
+#p3 {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#sec5 {
+    display: flex;
+    gap: 30px;
+}
+
+#img3 {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin: 15px 0;
+}
+
+
+#sec6 {
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+#sec7 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#p4 {
+    text-align: center;
+    margin-top: 5px;
+}
+
+#imgs {
+    text-align: center;
+}
+
+#sec8 {
+    text-align: center;
+    border: 1px solid black;
+    margin: 30px 0;
+    padding: 50px 20px;
+    gap: 40px;
+}
+
+#sec8>button {
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    padding: 0px 8px;
+}
+
+
+#footer {
+    background-color: black;
+    color: white;
+}
+
+.links a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+
+}
+
+#footer>div {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+#footer h1 {
+    letter-spacing: 5px; text-transform: uppercase;
+}
+
+*div > p {
+    font-size: 50px;
+}
+/* 
+.elip {
+    position: absolute;
+text-align: center;
+margin-left: 650px;
+margin-bottom: 200px;
+} */
